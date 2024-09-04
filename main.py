@@ -1,0 +1,6 @@
+# aris_tools/main.py
+
+from cli import main_menu
+
+if __name__ == "__main__":
+    main_menu()
